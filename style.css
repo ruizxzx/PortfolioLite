@@ -1,0 +1,44 @@
+body {
+    background-color: #f5c9e0;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(186, 92, 92);
+    border-width: 5px;
+    width: 10%;
+
+
+}
+
+h2 {
+    color: #de87d5;
+}
+
+h1 {
+    color: #563561;
+}
+h3 {
+    color: #65647C;
+}
+
+.hobbies-contact h2 {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  a {
+    color: rgb(70, 2, 197);
+  }
